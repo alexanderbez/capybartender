@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
   spec.files         = Dir["lib/**/*.rb"]
   spec.require_paths = ["lib"]
 
-  spec.add_dependency "selenium-webdriver", "~> 2.39"
+  spec.add_dependency "selenium-webdriver", "~> 2.41"
   spec.add_dependency "capybara", "~> 2.4"
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
