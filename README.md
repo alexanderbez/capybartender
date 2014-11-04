@@ -1,4 +1,5 @@
 # Capybartender
+[![Gem Version](https://badge.fury.io/rb/capybartender.svg)](http://badge.fury.io/rb/capybartender)
 
 Don't stress, let Capybartender serve you your desired Selenium profile!
 
